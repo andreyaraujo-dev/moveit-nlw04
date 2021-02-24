@@ -16,13 +16,10 @@
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jackssonandrey/moveit-nlw04?style=for-the-badge">
     <img alt="GitHub" src="https://img.shields.io/github/license/jackssonandrey/moveit-nlw04?style=for-the-badge">
 </h2>
-<hr>
 
 ![capa](./public/capa.png)
 
 ## 🗂️ Index
-
-<hr>
 
 - [Index](#index)
 - [Sobre o projeto](#sobre-o-projeto)
@@ -34,13 +31,9 @@
 
 ## 💻 Sobre o projeto
 
-<hr>
-
 Semelhante a técnica Pomodoro, o Move.it gerencia o tempo de suas atividades, bonificando suas conquistas. A cada ciclo de tempo ele vai te dar exercícios simples para você fazer, e caso faça, você ganha uma quantia X de XP. A cada Level que você chega, uma bonificação é dada. O intuito é fazer com que pessoas que trabalhem a maior parte do tempo sentadas, façam algum tipo de exercíco, para não terem problemas com a saúde mais na frente.
 
 ## 🛠️ Tecnologias
-
-<hr>
 
 As Tecnologias utilizadas neste projeto foram:
 
@@ -50,14 +43,10 @@ As Tecnologias utilizadas neste projeto foram:
 
 ## 📸 Screenshots
 
-<hr>
-
 <img src="./public/ciclo-encerrado.png">
 <img src="./public/compartilhar.png">
 
 ## 🚀 Instalação e start
-
-<hr>
 
 Certifique-se de que tenha algum gerenciador de dependências em seu ambiente antes de seguir os passos abaixo. Para instalar e iniciar use `npm` ou `yarn`.
 
@@ -85,15 +74,13 @@ Será iniciado em `http://localhost:3000`
 
 ## 📝 Licença
 
-<hr>
-
 O projeto está sobre a licença [MIT](./LICENSE)
 
 ## :handshake: Contato
 
-<hr>
-
+<div style="width: 120px;">
 <img src="https://github.com/jackssonandrey.png" style="width: 120px;">
+</div>
 
 Me siga nas redes sociais, crio conteúdo para o instagram, me segue lá para ver dicas diárias sobre programação e tecnologia.
 
