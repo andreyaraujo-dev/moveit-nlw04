@@ -20,25 +20,25 @@
 
 ![capa](./public/capa.png)
 
-## Index
+## 🗂️ Index
 
 <hr>
 
 - [Index](#index)
 - [Sobre o projeto](#sobre-o-projeto)
 - [Tecnologias](#tecnologias)
-- [Prints](#prints)
+- [Screenshots](#screenshots)
 - [Instalação e start](#instalação-e-start)
 - [Licença](#licença)
 - [Contato](#contato)
 
-## Sobre o projeto
+## 💻 Sobre o projeto
 
 <hr>
 
 Semelhante a técnica Pomodoro, o Move.it gerencia o tempo de suas atividades, bonificando suas conquistas. A cada ciclo de tempo ele vai te dar exercícios simples para você fazer, e caso faça, você ganha uma quantia X de XP. A cada Level que você chega, uma bonificação é dada. O intuito é fazer com que pessoas que trabalhem a maior parte do tempo sentadas, façam algum tipo de exercíco, para não terem problemas com a saúde mais na frente.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 <hr>
 
@@ -48,14 +48,14 @@ As Tecnologias utilizadas neste projeto foram:
 - <a href="https://www.typescriptlang.org/">Typescript</a>
 - <a href="https://nextjs.org/">Next.js</a>
 
-## Prints
+## 📸 Screenshots
 
 <hr>
 
 <img src="./public/ciclo-encerrado.png">
 <img src="./public/compartilhar.png">
 
-## Instalação e start
+## 🚀 Instalação e start
 
 <hr>
 
@@ -83,13 +83,13 @@ Logo em seguinda entre no repositório clonado e rode os seguintes comandos:
 
 Será iniciado em `http://localhost:3000`
 
-## Licença
+## 📝 Licença
 
 <hr>
 
 O projeto está sobre a licença [MIT](./LICENSE)
 
-## Contato
+## :handshake: Contato
 
 <hr>
 
