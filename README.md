@@ -79,7 +79,7 @@ O projeto está sobre a licença [MIT](./LICENSE)
 ## :handshake: Contato
 
 <div style="width: 120px;">
-<img src="https://github.com/jackssonandrey.png" style="width: 120px;">
+<img src="https://github.com/jackssonandrey.png" style="width: 120px; height: 120px">
 </div>
 
 Me siga nas redes sociais, crio conteúdo para o instagram, me segue lá para ver dicas diárias sobre programação e tecnologia.
