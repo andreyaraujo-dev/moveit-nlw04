@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 import { GetServerSideProps } from 'next';
 import { CountdownProvider } from '../contexts/CountdownContext';
 import { CompletedChallenges } from '../components/CompletedChallenges';

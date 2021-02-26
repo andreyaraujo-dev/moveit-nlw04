@@ -40,11 +40,13 @@ As Tecnologias utilizadas neste projeto foram:
 - <a href="https://pt-br.reactjs.org/">React JS</a>
 - <a href="https://www.typescriptlang.org/">Typescript</a>
 - <a href="https://nextjs.org/">Next.js</a>
+- <a href="https://vercel.com/">Vercel</a>
 
 ## 📸 Screenshots
 
-<img src="./public/ciclo-encerrado.png">
-<img src="./public/compartilhar.png">
+<img src="./public/comecar-ciclo.png">
+<img src="./public/desafio.png">
+<img src="./public/modal.png">
 
 ## 🚀 Instalação e start
 
